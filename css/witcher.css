@@ -1,0 +1,50 @@
+.gap-10 {
+  width:100%;
+  height:10px;
+}
+.gap-20 {
+  width:100%;
+  height:20px;
+}
+.gap-30 {
+  width:100%;
+  height:30px;
+}
+.gap-40 {
+  width:100%;
+  height:40px;
+}
+.gap-50 {
+  width:100%;
+  height:50px;
+}
+.gap-60 {
+  width:100%;
+  height:60px;
+}
+.img-dynamic {
+  width: 100%;
+  height: auto;
+}
+.img-main {
+  width: 250px;
+  height: auto;
+}
+a.article-link {
+ color: white;
+}
+
+/* visited link */
+a.article-link:visited {
+ color: white;
+}
+
+/* mouse over link */
+a.article-link:hover {
+ color: lightgray;
+}
+
+/* selected link */
+a.article-link:active {
+ color: white;
+}
