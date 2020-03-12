@@ -9,7 +9,11 @@ Ik heb the Witcher gekozen omdat ik het recent gekezen heb en omdat ik het erg l
 
 ## Wat is de structuur van de website?
 `index.html` is de homepagina van de website. Vanaf deze homepagina kan je bij alle pagina's komen.
+<br>
 Bovenaan index.html kan je een artikel zien, als je op de titel of op de link klikt kom je bij `summary.html` Dat is een pagina met alleen het artikel
+<br>
 `library.html` is een pagina met allemaal foto's van dingen die in de show gebeurt zijn en `witcheruniverse.html` is voor plekken waar je de witcher kunt vinden buiten de Netflix-serie.
+<br>
 `about.html` is een korte pagina waarin ik uitleg waar the Witcher over gaat.
+<br>
 `cast.html` en `characters.html` zijn pagina's waarin ik plaatjes en uitleg geef bij de acteurs en de karakters respectievelijk. 
