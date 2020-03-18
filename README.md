@@ -18,7 +18,7 @@ Bovenaan index.html kan je een artikel zien, als je op de titel of op de link kl
 <br>
 `about.html` is een korte pagina waarin ik uitleg waar the Witcher over gaat.
 <br>
-`cast.html` en `characters.html` zijn pagina's waarin ik plaatjes en uitleg geef bij de acteurs en de karakters respectievelijk. 
+`cast.html` is de pagina waarin ik plaatjes en uitleg geef over de acteurs en de karakters.
 
 ## Code
 Bovenaan elke pagina kan je een header vinden die je kunt gebruiken om over de pagina te navigeren, ik heb hier niet veel aan veranderd van wat er al in Bootstrap zit.
